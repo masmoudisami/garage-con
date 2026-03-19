@@ -5,8 +5,7 @@
 
 Sur un nouveau serveur :
 
-git clone https://github.com/masmoudisami/garage-con
-.git
+git clone https://github.com/masmoudisami/garage-con.git
 
 cd garage-con
 
