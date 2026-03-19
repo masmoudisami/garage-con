@@ -9,8 +9,8 @@
 // ============================================================================
 // CONFIGURATION BASE DE DONNÉES
 // ============================================================================
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'db');
+define('DB_HOST', 'db');
+define('DB_NAME', 'mechanic_db');
 define('DB_USER', 'sami');
 define('DB_PASS', 'Sm/131301');
 
