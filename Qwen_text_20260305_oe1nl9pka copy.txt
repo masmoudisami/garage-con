@@ -1,0 +1,25 @@
+/var/www/html/
+├── index.php
+├── config.php
+├── sql/
+│   └── schema.sql
+├── models/
+│   ├── Database.php
+│   ├── Invoice.php
+│   ├── Client.php
+│   └── RepairType.php
+├── controllers/
+│   ├── InvoiceController.php
+│   ├── ClientController.php
+│   └── RepairTypeController.php
+├── views/
+│   ├── dashboard.php
+│   ├── invoice_form.php
+│   ├── invoice_print.php
+│   ├── client_form.php
+│   └── repair_type_form.php
+├── assets/
+│   └── script.js
+└── exports/
+    ├── export_csv.php
+    └── export_pdf.php
