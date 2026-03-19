@@ -5,10 +5,10 @@
 
 Sur un nouveau serveur :
 
-git clone https://github.com/masmoudisami/garage-web-con
+git clone https://github.com/masmoudisami/garage-con
 .git
 
-cd garage-web-con
+cd garage-con
 
 docker compose up -d --build
 
