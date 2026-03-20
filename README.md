@@ -4,7 +4,9 @@
 8️⃣ Déploiement sur un nouveau serveur
 
 git clone https://github.com/masmoudisami/garage-con.git
+
 cd garage-con
+
 docker compose up -d --build
 
 ////////////
