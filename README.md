@@ -17,13 +17,13 @@ import fichier sql (si base n'a pas ete importée automatiquement)
 
 1️⃣ Ouvre :
 
-http://localhost:8081
+http://localhost:8081 et attendez un peu de temps
 
 2️⃣ Connecte-toi :
 
 user : root
-password : (voir .env)
-
+password : (voir .env) 
+ 
 3️⃣ Clique sur la base : mechanic_db
 
 4️⃣ Onglet Import
