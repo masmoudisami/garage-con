@@ -33,6 +33,8 @@ password : (voir .env)
 
 Application accessiblr via : http://localhost:8080
 
+lors de la première connexion supprimer le user depuis phpmyadmin
+
 ///////////
 
 7️⃣ Sauvegarde de la base (très important)
